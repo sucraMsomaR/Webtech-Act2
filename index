@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home Page</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <div class = "welcome-text">
+            <div class="content">	
+                <h1>WELCOME!</h1>
+                <p>Zesty With The Besties Cats And Dogs</p>
+                <div>
+                    <button type="button"><span></span>CATS</button>
+                    <button type="button"><span></span>DOGS</button>
+                </div>
+            </div>
+        </div>	
+    </body>
+</html>
